@@ -1,0 +1,23 @@
+h1 { color: #090; font-size: 250%; }
+
+h2 { color: rgb(100, 71, 7); font-size: 150%; }
+
+html {
+background-color: rgb(179, 179, 179);
+}
+
+p {
+    border-style:solid
+}
+
+img {
+    border: 3px dashed rgb(49, 153, 46)
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(179, 179, 179);
+    padding: 20px; 
+}
